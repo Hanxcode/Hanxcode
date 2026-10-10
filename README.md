@@ -12,33 +12,9 @@
 <br>I'd rather ship one system that runs than ten that only demo</br>
 <br><a href="https://hanxcode.github.io">You can learn more about me through my blog</a><br>
 
-<br><br>
 
-<b><sub>PROJECTS · 项目</sub></b>
-<br>
 
-<br><a href="https://github.com/Hanxcode/Hanxcode-spring-agent"><b>Hanxcode-spring-agent</b></a> — Spring AI 智能对话平台</br>
-<sub>RAG 全链路：Markdown 读取 → 向量化 → PgVector 检索 → 上下文拼装 · SSE 流式输出 · Java 21 / Spring Boot 3.4</sub>
 
-<br><br>
-
-<br><a href="https://github.com/Hanxcode/Hanxcode-Weblog"><b>Hanxcode-Weblog</b></a> — 前后端分离的个人博客</br>
-<sub>Maven 四模块拆分（web / admin / common / jwt）· JJWT 鉴权 · Knife4j · Vue 3 + Vite + Element Plus</sub>
-
-<br><br>
-
-<br><a href="https://hanxcode.github.io"><b>Hanxcode.github.io</b></a> — VitePress 学习笔记站</br>
-<sub>VitePress · Mermaid · MathJax · GitHub Actions 自动部署</sub>
-
-<br><br>
-
-<b><sub>STACK · 技术栈</sub></b>
-<br>
-
-<br>Java · Spring Boot · Spring AI · MyBatis-Plus · PostgreSQL · PgVector</br>
-<br>Vue 3 · Vite · Pinia · Element Plus · TailwindCSS · VitePress<br>
-
-<br><br>
 
 <b><sub>STATS · 数据</sub></b>
 <br>
