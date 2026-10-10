@@ -7,14 +7,16 @@
   </a>
 </p>
 
+
+<br>主要用 <b>Java</b> 和 <b>Spring Boot</b>，前端会写一点 Vue 3</br>
 <br>Mainly using <b>Java</b> and <b>Spring Boot</b>, with a bit of Vue 3 on the front end</br>
+<br>后端开发，正在往 <b>Agent 工程师</b> 走</br>
 <br>Back-end developer, on the road to <b>Agent engineer</b></br>
+<br>比起十个跑不起来的 demo，更想交付一个真正能跑的系统</br>
 <br>I'd rather ship one system that runs than ten that only demo</br>
-<br><a href="https://hanxcode.github.io">You can learn more about me through my blog</a><br>
+<br><a href="https://hanxcode.github.io">更多内容在我的博客 · More about me through my blog</a><br>
 
-
-
-
+<br><br>
 
 <b><sub>STATS · 数据</sub></b>
 <br>
@@ -28,6 +30,16 @@
     <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Hanxcode&count_private=true&bg_color=00000000&hide_border=true&disable_animations=true&title_color=8F7FD3&text_color=8B949E&layout=compact&hide=html,scss&langs_count=6" alt="Top Languages" />
   </a>
 </p>
+
+
+<br>
+
+<b><sub>REACH ME · 联系</sub></b>
+<br>
+
+<br><a href="https://hanxcode.github.io">Blog</a> · <a href="https://github.com/Hanxcode">GitHub</a> · <a href="mailto:2498452383zhs@gmail.com">Email</a><br>
+
+</div>
 
 
 <br>
